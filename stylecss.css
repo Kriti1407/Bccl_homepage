@@ -1,0 +1,58 @@
+  body{
+                background-size: cover;
+            }
+            nav{
+                background-color: white;
+            }
+            table{
+                background-color: white;
+            }
+nav{
+	background:black;
+    list-style-type: none;
+    margin:0;
+    padding:0;
+}
+
+nav ul{
+    display: block;
+    list-style: none;
+	float:right;
+	margin-right:20px;
+  }
+  nav ul li{
+	  line-height:80px;
+	
+	  margin:0 5px;
+	  display:inline-block;
+	  
+  }
+  nav ul li a{
+	  padding:2px 10px;
+	  
+	 
+	  color:white;
+	  font-size:20px;
+	 
+	  
+  }
+  logo{
+      padding: 2px 2px;
+      float: left;
+      height: 20px;
+  }
+  header{
+      color: white;
+  }
+ li a:hover{
+	 color:red;
+ }
+ a:hover{
+	 color:red;
+ }
+ }
+nav ul li{
+	display:inline-block;
+          
+		  margin-right:20px;
+  }

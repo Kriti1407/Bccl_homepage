@@ -1,0 +1,51 @@
+  body{
+                background-size: cover;
+            }
+            nav{
+                background-color: white;
+            }
+            table{
+                background-color: white;
+            }
+
+nav{
+	background: white;
+    list-style-type: none;
+    height:105px;
+    width: 50;
+    margin:0;
+    padding:1;
+}
+
+ li a{
+    font-size: 20px;
+ 
+    color: #990000;
+    padding: 0px  5px;
+    text-decoration: #990000;
+      float: right;
+}
+nav ul{
+          float: right;
+		  margin-right:20px;
+  }
+  logo{
+      padding: 2px 2px;
+      float: left;
+      height: 20px;
+  }
+  header{
+      color: white;
+  }
+ li a:hover{
+	 color:red;
+ }
+ a:hover{
+	 color:red;
+ }
+ }
+nav ul li{
+	display:inline-block;
+          
+		  margin-right:20px;
+  }
